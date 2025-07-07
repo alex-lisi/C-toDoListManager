@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Function declarations
+// Function prototypes
 void addToFile();
 void removeFromFile();
 void viewToDoList();
